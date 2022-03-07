@@ -1,5 +1,5 @@
 # course-enroll
-Back End Repo for the Full Stack Project course-enroll-management system
+Front End Repo for the Full Stack Project course-enroll-management system
 # Back-end
 AWS endpoint: http://course-enroll-bucket.s3-website.us-east-2.amazonaws.com/
 Local host: http://localhost:3000/
